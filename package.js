@@ -1,6 +1,6 @@
 /* jshint ignore:start */
 Package.describe({
-  name: 'silentcicero:solc',
+  name: 'silentcicero:solc-compiler',
   version: '0.1.5-1',
   summary: 'The Ethereum solidity compiler wrapped for MeteorJS.',
   git: 'https://github.com/SilentCicero/meteor-package-solc',
