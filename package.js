@@ -2,7 +2,7 @@
 Package.describe({
   name: 'silentcicero:solc',
   version: '0.1.5',
-  summary: 'The Ethereum solidity compiler wrapped for MeteorJS. Browser solidity is a browser based solidity compiler.',
+  summary: 'The Ethereum solidity compiler wrapped for MeteorJS.',
   git: 'https://github.com/SilentCicero/meteor-package-solc',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
