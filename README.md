@@ -1,11 +1,11 @@
-## meteor-package-solc
+## meteor-solc-compiler
 The Ethereum solidity compiler wrapped for MeteorJS.
 
 ## Install
 
 ### Meteor
 
-    $ meteor add silentcicero:solc
+    $ meteor add silentcicero:solc-compiler
     
 ### NPM
 
