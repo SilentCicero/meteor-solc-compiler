@@ -13,7 +13,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.2');
 
   Npm.depends({
-    'solc': '0.1.5-1',
+    'solc': '0.1.6',
   });
 
   api.export(['solc'], ['server']);
