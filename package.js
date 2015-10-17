@@ -17,5 +17,6 @@ Package.onUse(function(api) {
   });
 
   api.export(['solc'], ['server']);
+  api.addFiles('soljson.js', 'client');
   api.addFiles('package-init.js', 'server');
 });
