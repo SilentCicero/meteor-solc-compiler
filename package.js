@@ -1,7 +1,7 @@
 /* jshint ignore:start */
 Package.describe({
   name: 'silentcicero:solc-compiler',
-  version: '0.2.1',
+  version: '0.2.2',
   summary: 'The Ethereum solidity compiler wrapped for MeteorJS.',
   git: 'https://github.com/SilentCicero/meteor-package-solc',
   // By default, Meteor will default to using README.md for documentation.
